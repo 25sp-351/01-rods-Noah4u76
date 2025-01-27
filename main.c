@@ -102,9 +102,6 @@ void solve_rod_cutting(Piece pieces[], int count, int rod_length) {
     free(cuts);
 }
 
-
-
-
 /**
  * Prints the final cutting solution.
  * Input:
